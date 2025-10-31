@@ -11,4 +11,3 @@ class Solution:
             total -= mat[n // 2][n // 2]
         
         return total
-
