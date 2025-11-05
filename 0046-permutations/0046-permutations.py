@@ -1,13 +1,12 @@
 class Solution:
-    def permute(self, nums):
-        if len(nums) == 1:
-            return [nums[:]]
-
-        result = []
-        for i in range(len(nums)):
-            n = nums[i]
-            remaining = nums[:i] + nums[i+1:]
-
-            for p in self.permute(remaining):
-                result.append([n] + p)
-        return result
+    def permute(self, nums: list[int]) -> list[list[int]]:
+        perms = [[]]
+        for n in nums:
+            new_perms = []
+            for p in perms:
+                for i in range(len(p) + 1):
+                    p_copy = p.copy()
+                    p_copy.insert(i, n)
+                    new_perms.append(p_copy)
+            perms = new_perms
+        return perms
