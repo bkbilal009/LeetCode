@@ -4,6 +4,6 @@ class Solution:
             return nums[0]
 
         newNum = set(nums)
-        for i in newNum:
+        for i in nums:
             if nums.count(i) == 1:
                 return i
