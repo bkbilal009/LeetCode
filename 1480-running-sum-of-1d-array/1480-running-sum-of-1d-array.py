@@ -1,12 +1,9 @@
 class Solution:
     def runningSum(self, nums):
-        answer = []
+        sum = 0
 
         for i in range(len(nums)):
-            runningSum = 0
-            for j in range(i + 1):
-                runningSum += nums[j]
+            sum += nums[i]
+            nums[i] = sum 
 
-            answer.append(runningSum)
-
-        return answer
+        return nums
