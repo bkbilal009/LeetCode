@@ -3,16 +3,9 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        k = k % n
-
-        def reverse(start , end):
-            while start < end:
-                nums[start],nums[end]=nums[end],nums[start]
-                
-                start += 1
-                end -= 1
-
-        reverse(0,n-1)
-        reverse(0,k-1)
-        reverse(k,n-1)
+        step = 1
+        while step <= k:
+            LastElement = nums.pop()
+            nums.insert(0 , LastElement)
+            step += 1
+        return nums
