@@ -3,29 +3,36 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        slow = head
-        fast = head
+        dummy = ListNode(0)
+        dummy.next = head
+        len = 0
+        l = head
 
-        # move fast n steps ahead
-        for i in range(n):
-            fast = fast.next
+        while (l != None):
+            len = len + 1
+            l = l.next
 
-        # if fast is None, remove the head
-        if not fast:
-            return head.next
+        d = len - n + 1
 
-        # move both until fast reaches last node
-        while fast.next:
-            fast = fast.next
-            slow = slow.next
+        prev = dummy
+        curr = head
 
-        # delete the nth node from end
-        delNode = slow.next
-        slow.next = slow.next.next
-        delNode = None
+        i = 0
+        while ( i < (d - 1)):
+            curr = curr.next 
+            prev = prev.next
+            i = i + 1
+            
+        prev.next = prev.next.next
 
-        return head
+        return dummy.next
 
+        # T = O(n)
+        # S = O(1)
+
+        # 1  2  3  4  5
+        # p  c 
+        # d = 4
+        # 3
