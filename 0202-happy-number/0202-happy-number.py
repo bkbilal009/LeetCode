@@ -1,22 +1,21 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-
-        def sumOfsquareOfDigits(n):
+        def getNext(n):
             sum = 0
             while n > 0:
-                dig = n % 10
-                sum = sum + (dig * dig)
-                n = n // 10
-            return sum
+                digit = n % 10
+                sum = sum + (digit * digit)
+                n //= 10
 
+            return sum 
+
+    # T:O(n)
+    # S:O(1)
         slow = n
-        fast = n
+        fast = getNext(n)
 
-        while fast != 1:
-            slow = sumOfsquareOfDigits(slow)
-            fast = sumOfsquareOfDigits(sumOfsquareOfDigits(fast))
+        while (fast != 1) and ( slow != fast):
+            slow = getNext(slow)
+            fast = getNext(getNext(fast))
 
-            if slow == fast:
-                return False
-
-        return True
+        return fast == 1
