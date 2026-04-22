@@ -8,8 +8,11 @@ class Solution:
         slow = head 
         fast = head
 
-        while fast and fast.next:
-            slow = slow.next 
+        while (fast != None) and (fast.next != None):
+            slow = slow.next
             fast = fast.next.next
 
-        return slow 
+        return slow
+
+        # T:O(n)
+        # S:O(1)
