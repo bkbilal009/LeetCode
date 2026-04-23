@@ -9,21 +9,21 @@ class Solution:
         slow = head
         fast = head
 
-        while fast and fast.next:
+        while (fast != None ) and (fast.next != None ):
             slow = slow.next
             fast = fast.next.next
 
-            if slow == fast:
+            if (slow == fast):
                 break
 
-        if fast is None or fast.next is None:
+        if (fast == None) or (fast.next == None):
             return None
 
-        n1 = slow 
+        n1 = slow
         n2 = head
 
-        while n1 != n2:
-            n1 = n1.next 
+        while (n1 != n2):
+            n1 = n1.next
             n2 = n2.next
 
         return n1
