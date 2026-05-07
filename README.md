@@ -87,4 +87,16 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bkbilal009/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bkbilal009/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bkbilal009/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bkbilal009/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
