@@ -26,6 +26,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bkbilal009/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bkbilal009/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0876-middle-of-the-linked-list](https://github.com/bkbilal009/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bkbilal009/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bkbilal009/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bkbilal009/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,12 +72,14 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/bkbilal009/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bkbilal009/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkbilal009/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bkbilal009/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bkbilal009/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
