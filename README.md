@@ -7,6 +7,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/bkbilal009/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkbilal009/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bkbilal009/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bkbilal009/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bkbilal009/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -111,10 +113,12 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bkbilal009/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/bkbilal009/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bkbilal009/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bkbilal009/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Search Tree
@@ -129,6 +133,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bkbilal009/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -153,5 +158,10 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bkbilal009/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 <!---LeetCode Topics End-->
