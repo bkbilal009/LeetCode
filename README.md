@@ -83,6 +83,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0344-reverse-string](https://github.com/bkbilal009/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/bkbilal009/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bkbilal009/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/bkbilal009/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/bkbilal009/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -160,6 +161,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bkbilal009/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/bkbilal009/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/bkbilal009/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/bkbilal009/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
