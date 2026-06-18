@@ -116,6 +116,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/bkbilal009/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/bkbilal009/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bkbilal009/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bkbilal009/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bkbilal009/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
