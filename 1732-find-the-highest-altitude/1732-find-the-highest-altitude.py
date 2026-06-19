@@ -1,11 +1,10 @@
 class Solution:
-    def largestAltitude(self, gain):
-        curAlt = 0
-        maxAlt = curAlt
+    def largestAltitude(self, gain: List[int]) -> int:
+        curr = 0
+        ans = 0
 
         for g in gain:
-            curAlt += g
-            if curAlt > maxAlt:
-                maxAlt = curAlt
+            curr += g
+            ans = max(ans,curr)
 
-        return maxAlt
+        return ans
