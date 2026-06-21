@@ -26,6 +26,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0287-find-the-duplicate-number](https://github.com/bkbilal009/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/bkbilal009/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/bkbilal009/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/bkbilal009/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bkbilal009/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bkbilal009/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -74,6 +75,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0075-sort-colors](https://github.com/bkbilal009/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/bkbilal009/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/bkbilal009/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bkbilal009/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bkbilal009/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -92,6 +94,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/bkbilal009/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/bkbilal009/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bkbilal009/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bkbilal009/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -191,4 +194,8 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bkbilal009/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/bkbilal009/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
