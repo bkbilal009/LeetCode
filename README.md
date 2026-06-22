@@ -46,6 +46,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0141-linked-list-cycle](https://github.com/bkbilal009/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bkbilal009/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/bkbilal009/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/bkbilal009/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bkbilal009/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0125-valid-palindrome](https://github.com/bkbilal009/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/bkbilal009/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/bkbilal009/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/bkbilal009/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bkbilal009/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bkbilal009/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/bkbilal009/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -197,5 +199,6 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/bkbilal009/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bkbilal009/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
