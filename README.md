@@ -157,6 +157,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bkbilal009/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/bkbilal009/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bkbilal009/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/bkbilal009/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/bkbilal009/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/bkbilal009/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
