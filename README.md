@@ -28,6 +28,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [1732-find-the-highest-altitude](https://github.com/bkbilal009/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bkbilal009/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/bkbilal009/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bkbilal009/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bkbilal009/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bkbilal009/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bkbilal009/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -84,6 +85,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bkbilal009/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/bkbilal009/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bkbilal009/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bkbilal009/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bkbilal009/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -103,6 +105,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/bkbilal009/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bkbilal009/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bkbilal009/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bkbilal009/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bkbilal009/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
