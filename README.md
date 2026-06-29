@@ -29,6 +29,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [1833-maximum-ice-cream-bars](https://github.com/bkbilal009/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/bkbilal009/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bkbilal009/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bkbilal009/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bkbilal009/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bkbilal009/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bkbilal009/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -97,6 +98,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0344-reverse-string](https://github.com/bkbilal009/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/bkbilal009/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/bkbilal009/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bkbilal009/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bkbilal009/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bkbilal009/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/bkbilal009/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
