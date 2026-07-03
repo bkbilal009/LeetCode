@@ -39,6 +39,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bkbilal009/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bkbilal009/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bkbilal009/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/bkbilal009/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bkbilal009/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/bkbilal009/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -125,6 +126,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bkbilal009/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bkbilal009/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3620-network-recovery-pathways](https://github.com/bkbilal009/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bkbilal009/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bkbilal009/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Linked List
@@ -173,6 +175,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bkbilal009/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/bkbilal009/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/bkbilal009/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bkbilal009/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
@@ -206,6 +209,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bkbilal009/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bkbilal009/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bkbilal009/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/bkbilal009/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -256,8 +260,14 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bkbilal009/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bkbilal009/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bkbilal009/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/bkbilal009/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/bkbilal009/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
