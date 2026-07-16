@@ -142,6 +142,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/bkbilal009/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bkbilal009/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bkbilal009/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/bkbilal009/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bkbilal009/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
