@@ -24,6 +24,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0088-merge-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkbilal009/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bkbilal009/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bkbilal009/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/bkbilal009/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/bkbilal009/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -55,6 +56,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0141-linked-list-cycle](https://github.com/bkbilal009/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bkbilal009/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/bkbilal009/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bkbilal009/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bkbilal009/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/bkbilal009/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bkbilal009/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -89,6 +91,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/bkbilal009/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/bkbilal009/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/bkbilal009/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/bkbilal009/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
