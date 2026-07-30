@@ -25,6 +25,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkbilal009/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bkbilal009/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bkbilal009/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0724-find-pivot-index](https://github.com/bkbilal009/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bkbilal009/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/bkbilal009/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -198,6 +199,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/bkbilal009/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/bkbilal009/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/bkbilal009/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/bkbilal009/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
