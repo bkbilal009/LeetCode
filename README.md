@@ -25,6 +25,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkbilal009/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bkbilal009/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bkbilal009/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bkbilal009/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/bkbilal009/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/bkbilal009/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -128,6 +129,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkbilal009/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bkbilal009/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bkbilal009/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bkbilal009/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bkbilal009/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
