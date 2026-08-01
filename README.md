@@ -128,6 +128,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/bkbilal009/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkbilal009/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bkbilal009/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bkbilal009/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -149,6 +150,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/bkbilal009/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/bkbilal009/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/bkbilal009/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bkbilal009/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
