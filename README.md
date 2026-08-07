@@ -20,6 +20,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bkbilal009/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/bkbilal009/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkbilal009/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -70,6 +71,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bkbilal009/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/bkbilal009/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/bkbilal009/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
