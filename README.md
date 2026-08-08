@@ -42,6 +42,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [2574-left-and-right-sum-differences](https://github.com/bkbilal009/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bkbilal009/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bkbilal009/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2963-count-the-number-of-good-partitions](https://github.com/bkbilal009/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bkbilal009/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bkbilal009/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bkbilal009/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -65,6 +66,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [1207-unique-number-of-occurrences](https://github.com/bkbilal009/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bkbilal009/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bkbilal009/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2963-count-the-number-of-good-partitions](https://github.com/bkbilal009/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bkbilal009/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bkbilal009/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bkbilal009/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -166,6 +168,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bkbilal009/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bkbilal009/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/bkbilal009/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
+| [2963-count-the-number-of-good-partitions](https://github.com/bkbilal009/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bkbilal009/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bkbilal009/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bkbilal009/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -305,4 +308,8 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/bkbilal009/LeetCode/tree/main/0231-power-of-two/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/bkbilal009/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 <!---LeetCode Topics End-->
