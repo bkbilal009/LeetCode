@@ -89,6 +89,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0680-valid-palindrome-ii](https://github.com/bkbilal009/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/bkbilal009/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bkbilal009/LeetCode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bkbilal009/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bkbilal009/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bkbilal009/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -121,6 +122,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0680-valid-palindrome-ii](https://github.com/bkbilal009/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/bkbilal009/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bkbilal009/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bkbilal009/LeetCode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bkbilal009/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bkbilal009/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bkbilal009/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
