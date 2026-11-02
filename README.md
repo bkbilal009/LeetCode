@@ -167,6 +167,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | [0069-sqrtx](https://github.com/bkbilal009/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/bkbilal009/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/bkbilal009/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/bkbilal009/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bkbilal009/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bkbilal009/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/bkbilal009/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
@@ -225,6 +226,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/bkbilal009/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bkbilal009/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/bkbilal009/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bkbilal009/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -314,4 +316,8 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/bkbilal009/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/bkbilal009/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
