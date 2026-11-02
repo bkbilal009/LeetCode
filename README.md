@@ -164,6 +164,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/bkbilal009/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/bkbilal009/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/bkbilal009/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/bkbilal009/LeetCode/tree/main/0231-power-of-two/) | Easy |
