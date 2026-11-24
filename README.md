@@ -21,6 +21,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bkbilal009/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/bkbilal009/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/bkbilal009/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bkbilal009/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/bkbilal009/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -209,6 +210,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/bkbilal009/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bkbilal009/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bkbilal009/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bkbilal009/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -276,6 +278,7 @@ LeetCode in Python 🐍 | Solving challenges, sharpening skills 🚀
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/bkbilal009/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/bkbilal009/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/bkbilal009/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/bkbilal009/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
